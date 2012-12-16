@@ -15,12 +15,11 @@ Copyright: 2012, Andrew Podner
 
 Instructions:
 -------------
-
-*Create a folder called "abstract" under your /application folder.
-*All abstract classes and interfaces must be stored in the "abstract folder"
-*Make sure your /application/config/config.php has hooks enabled set to true. (@Line 94)
-*Add the autoloader.php file to your /application/hooks directory
-*Add the code from hooks.php to your /application/confg/hooks.php file
+* Create a folder called "abstract" under your /application folder.
+* All abstract classes and interfaces must be stored in the "abstract folder"
+* Make sure your /application/config/config.php has hooks enabled set to true. (@Line 94)
+* Add the autoloader.php file to your /application/hooks directory
+* Add the code from hooks.php to your /application/confg/hooks.php file
 
 
 Thanks:
@@ -30,4 +29,4 @@ Thanks:
 
 
 Versions:
-1.0:  Initial upload & release
+1.0:  12/14/12 - Initial upload & release
