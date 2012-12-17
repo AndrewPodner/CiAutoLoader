@@ -45,7 +45,7 @@ function callAutoloader()
 function autoloadInterfaces($className)
 {
     //Directory where clases will be stored (relative to application folder
-    $filepath = 'models/abstract/';
+    $filepath = 'abstract/';
 
     //check to make sure we are dealing with an interface or abstract class
     $filename = APPPATH . $filepath . strtolower($className) . '.php';
